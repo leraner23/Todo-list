@@ -1,0 +1,6 @@
+In this Todo-list , we can simply add the list of task which we want to do 
+along  width adding the list, we also push the data in the local storage
+in this todo list auto sorting function  is applied which works as when we checked a task then it goes to the end of the list and other task comes up
+in this we cannot set  list/ task  empty 
+when the task is set empty then an alert message is shown in the website
+this todo list website is responsive 
